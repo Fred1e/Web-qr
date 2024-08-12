@@ -14,13 +14,13 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WAOW YOU CHOOSE SUHAIL-MD 』*
+║ *『 WAOW YOU CHOOSE FRECYBER-MD 』*
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Ytube:* _youtube.com/SuhailTechInfo_
-║ *Owner:* _https://wa.me/923184474176_
+║  『••• 𝐅𝚪𝚵𝐂𝐘𝚩𝚵𝚪 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║ *Ytube:* _youtube.com/@freeonlinetvT1_
+║ *Owner:* _https://wa.me/255752593977
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
 ╚════════════════════════╝
@@ -94,16 +94,16 @@ SESSION-ID ==> ${Scan_Id}
             // console.log("Reason : ",DisconnectReason[reason])
             if (reason === DisconnectReason.connectionClosed) {
               console.log("Connection closed!")
-             // SUHAIL().catch(err => console.log(err));
+             // FRECYBER().catch(err => console.log(err));
             } else if (reason === DisconnectReason.connectionLost) {
                 console.log("Connection Lost from Server!")
-            //  SUHAIL().catch(err => console.log(err));
+            //  FRECYBER().catch(err => console.log(err));
             } else if (reason === DisconnectReason.restartRequired) {
                 console.log("Restart Required, Restarting...")
-              SUHAIL().catch(err => console.log(err));
+              FRECYBER().catch(err => console.log(err));
             } else if (reason === DisconnectReason.timedOut) {
                 console.log("Connection TimedOut!")
-             // SUHAIL().catch(err => console.log(err));
+             // FRECYBER().catch(err => console.log(err));
             }  else {
                 console.log('Connection closed with bot. Please run again.');
                 console.log(reason)
@@ -127,7 +127,7 @@ SESSION-ID ==> ${Scan_Id}
 
 
 
-  SUHAIL().catch(async(err) => {
+  FRECYBER().catch(async(err) => {
     console.log(err)
     await fs.emptyDirSync(__dirname+'/auth_info_baileys'); 
 
