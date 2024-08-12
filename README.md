@@ -9,7 +9,7 @@
   <a aria-label="Frecyber-Md is free to use" href="https://youtube.com/@freeonlinetvT1" target="_blank">
     <img alt="Fredietech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="Fred1e :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="web-qr :: Visitor's Count" /></p>
 
      
   </body>
