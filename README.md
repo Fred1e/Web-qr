@@ -82,4 +82,6 @@ RENDER PROCESS:
 
 
 ## MADE WITH ❤️
-[![SuhailTechIinfo](https://github.com/SuhailTechInfo.png?size=300)](https://github.com/SuhailTechInfo)
+[![FredieTech 1](https://github.com/Fred1e.png?size=200)](https://github.com/Fred1e)
+
+[![Fredie Frecyber](https://github.com/Frecyber.png?size=200)](https://github.com/Frecyber)
